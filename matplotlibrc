@@ -1,0 +1,48 @@
+#backend: Qt4Agg
+font.size: 18 
+font.family: sans-serif
+
+#### dark theme 
+lines.color: white
+patch.edgecolor: white
+
+text.color: white
+
+axes.facecolor: 212121 
+axes.edgecolor: white
+axes.labelcolor: white
+
+xtick.color: white
+ytick.color: white
+
+grid.color: white
+
+figure.facecolor: 212121 
+#figure.edgecolor: 212121 
+figure.edgecolor: white
+ 
+savefig.facecolor: 212121 
+#savefig.edgecolor: 212121 
+savefig.edgecolor: white 
+
+#### light theme
+#lines.color: black 
+#patch.edgecolor: white
+#
+#text.color: white
+#axes.facecolor: white 
+#axes.edgecolor: black 
+#axes.labelcolor: black 
+#
+#axes.linewidth: 2
+#
+#xtick.color: black 
+#ytick.color: black 
+#
+#grid.color: black 
+#
+#figure.facecolor: white 
+#figure.edgecolor: white 
+ 
+#savefig.facecolor: white 
+#savefig.edgecolor: white 
